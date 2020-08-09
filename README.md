@@ -20,7 +20,7 @@ Front-End
 CSS
 Javascript
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)
-- [CSS(https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 Back-End
