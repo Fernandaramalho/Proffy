@@ -16,14 +16,17 @@
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Front-End
-HTML
+
 CSS
 Javascript
+- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)
+- [CSS(https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 Back-End
-- [Node.js no back-end](https://nodejs.org/en/)
-- [Nunjucks no back-end](https://mozilla.github.io/nunjucks/)
-- [SQlite no back-end](https://www.sqlite.org/index.html)
+- [Node.js](https://nodejs.org/en/)
+- [Nunjucks](https://mozilla.github.io/nunjucks/)
+- [SQlite](https://www.sqlite.org/index.html)
 
 
 
